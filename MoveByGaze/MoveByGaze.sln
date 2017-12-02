@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveByGaze", "MoveByGaze.csproj", "{05817DB1-E2A1-C1A4-4C1E-044CBA37F356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveByGaze.Plugins", "MoveByGaze.Plugins.csproj", "{1CBC7219-487C-93E3-8CE4-2CE85AFE854B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveByGaze.Editor", "MoveByGaze.Editor.csproj", "{6E229CE3-05D0-090B-E1AB-1DD6F6E59D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05817DB1-E2A1-C1A4-4C1E-044CBA37F356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05817DB1-E2A1-C1A4-4C1E-044CBA37F356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05817DB1-E2A1-C1A4-4C1E-044CBA37F356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05817DB1-E2A1-C1A4-4C1E-044CBA37F356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CBC7219-487C-93E3-8CE4-2CE85AFE854B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBC7219-487C-93E3-8CE4-2CE85AFE854B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBC7219-487C-93E3-8CE4-2CE85AFE854B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBC7219-487C-93E3-8CE4-2CE85AFE854B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E229CE3-05D0-090B-E1AB-1DD6F6E59D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E229CE3-05D0-090B-E1AB-1DD6F6E59D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E229CE3-05D0-090B-E1AB-1DD6F6E59D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E229CE3-05D0-090B-E1AB-1DD6F6E59D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
